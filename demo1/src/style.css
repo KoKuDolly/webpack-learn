@@ -1,0 +1,7 @@
+@import url('./assets/fonts/iconfont.css');
+
+.hello {
+  /* color: red; */
+  font-family: "iconfont";
+  background: url('./girls-one.png');
+}
